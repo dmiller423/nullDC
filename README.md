@@ -1,7 +1,6 @@
-# nulldc
-nullDC, a sega dreamcast emulator for win86.
+# nullDC
+nullDC, a sega dreamcast emulator for windows
 
-I moved on to work on my new pet project, reicast, and while nullDC is still a 
-better choice for dreamcast emulation on windows/x86 reicast is where the fun is.
-
-This is here for archival & reference.
+This was a closed source project, never fully cleaned up for release.
+The source code was released without consent by it's co-author: Stefanos Kornillios M. Poiitidis in 2005.  
+Since then several derivitive works of both Reicast ('nullDC-e') and "FlyCast" (Reicast ^ retroarch) were born from it.
